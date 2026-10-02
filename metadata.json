@@ -1,0 +1,6 @@
+{
+  "name": "LIC Mitr",
+  "description": "LIC Policy Management & Premium Tracking app for policy registration, automated premium due countdowns, document/receipt uploads, and agent dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
